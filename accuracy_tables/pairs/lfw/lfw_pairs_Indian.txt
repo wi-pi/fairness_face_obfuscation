@@ -1,0 +1,21 @@
+10	1
+Carlos_Mesa	1	2
+Saeed_Mortazavi	1	Mohammed_Dahlan	1
+Marwan_Barghouthi	1	2
+Mikulas_Dzurinda	2	Mahmoud_Diyab_al-Ahmed	1
+Alejandro_Avila	2	1
+Qusai_Hussein	1	Mark_Andrew	1
+Harbhajan_Singh	2	1
+Rafiq_Hariri	1	Syed_Abdul_Rahman_Geelani	1
+Mukesh_Ambani	2	3
+Saeed_Mortazavi	1	Neil_Moritz	1
+Intisar_Ajouri	1	3
+Priyanka_Chopra	1	Yory_Boy_Campas	1
+Sam_Torrance	3	2
+Khalid_Khannouchi	1	Richard_Langille	1
+Kalpana_Chawla	4	2
+Fernando_Leon_de_Aranoa	1	Zach_Safrin	1
+Mukesh_Ambani	3	1
+Joseph_Fiennes	1	Mohammad_Aktar	1
+Leander_Paes	1	2
+Makhdoom_Amin_Fahim	1	Lemuel_Montulo	1

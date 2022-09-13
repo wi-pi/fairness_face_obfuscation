@@ -1,0 +1,23 @@
+python src/store_embeddings.py --gpu 3 --folder lfw --model torch_Xu_facenet --batch-size 20
+python src/store_embeddings.py --gpu 3 --folder lfw --model vggface2_race_balanced_facenet --batch-size 20
+python src/store_embeddings.py --gpu 3 --folder lfw --model vggface2_sex_balanced_facenet --batch-size 20
+python src/store_embeddings.py --gpu 3 --folder lfw --model vggface2_default_facenet --batch-size 20
+python src/store_embeddings.py --gpu 3 --folder vggface2 --model torch_Xu_facenet --batch-size 20
+python src/store_embeddings.py --gpu 3 --folder vggface2 --model vggface2_race_balanced_facenet --batch-size 20
+python src/store_embeddings.py --gpu 3 --folder vggface2 --model vggface2_sex_balanced_facenet --batch-size 20
+python src/store_embeddings.py --gpu 3 --folder vggface2 --model vggface2_default_facenet --batch-size 20
+
+python src/store_embeddings.py --gpu 2 --folder lfw --model Facenet --batch-size 20
+python src/store_embeddings.py --gpu 2 --folder lfw --model OpenFace --batch-size 20
+python src/store_embeddings.py --gpu 2 --folder lfw --model DeepFace --batch-size 20
+python src/store_embeddings.py --gpu 2 --folder lfw --model DeepID --batch-size 20
+python src/store_embeddings.py --gpu 2 --folder lfw --model Dlib --batch-size 20
+python src/store_embeddings.py --gpu 2 --folder lfw --model ArcFace --batch-size 20
+python src/store_embeddings.py --gpu 2 --folder lfw --model VGG-Face --batch-size 20
+python src/store_embeddings.py --gpu 2 --folder vggface2 --model Facenet --batch-size 20
+python src/store_embeddings.py --gpu 2 --folder vggface2 --model OpenFace --batch-size 20
+python src/store_embeddings.py --gpu 2 --folder vggface2 --model DeepFace --batch-size 20
+python src/store_embeddings.py --gpu 2 --folder vggface2 --model DeepID --batch-size 20
+python src/store_embeddings.py --gpu 2 --folder vggface2 --model Dlib --batch-size 20
+python src/store_embeddings.py --gpu 2 --folder vggface2 --model ArcFace --batch-size 20
+python src/store_embeddings.py --gpu 2 --folder vggface2 --model VGG-Face --batch-size 20

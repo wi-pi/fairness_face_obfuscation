@@ -1,0 +1,9 @@
+opencv-python
+keras
+imageio
+deepface
+matplotlib
+scikit-learn
+seaborn
+BeautifulSoup4
+boto3

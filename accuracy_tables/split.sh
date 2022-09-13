@@ -1,0 +1,1 @@
+python fpfair/lfw_attribute_split.py --folder age-gan --model-type small --loss-type center --dataset-type vgg

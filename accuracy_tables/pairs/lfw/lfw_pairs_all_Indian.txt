@@ -1,0 +1,21 @@
+10	1
+Intisar_Ajouri	3	1
+Anthony_Scott_Miller	1	Dorthy_Moxley	2
+Makhdoom_Amin_Fahim	2	3
+Manijeh_Hekmat	1	John_Taylor	1
+Carlos_Mesa	2	1
+Intisar_Ajouri	2	Fernando_Sanz	1
+Nanni_Moretti	1	2
+Anil_Ramsook	1	Annette_Lu	3
+Mukesh_Ambani	2	1
+Nestor_Gonzalez	1	Kwame_Kilpatrick	1
+Mukesh_Ambani	3	1
+Carlos_Mesa	2	Larry_Donald	1
+Oscar_Elias_Biscet	2	1
+Surya_Bahadur_Thapa	1	Kim_Dong-tae	1
+Harbhajan_Singh	1	2
+Abdel_Aziz_Al-Hakim	1	Micky_Arison	1
+Abdel_Nasser_Assidi	1	2
+Alejandro_Fernandez	1	Rebekah_Chantay_Revels	2
+Ranil_Wickremasinghe	1	2
+Anil_Ramsook	1	Yu_Shyi-kun	3

@@ -1,0 +1,141 @@
+10	7
+Ashton_Kutcher	1	3
+Jelena_Dokic	1	4
+Victoria_Clarke	2	3
+Ricky_Ponting	1	2
+Harry_Schmidt	4	3
+Derek_Lowe	2	1
+Phil_Mickelson	2	1
+Laura_Flessel	1	Mary_Frances_Seiter	1
+Connie_Freydell	1	Natalie_Stewart	1
+Nicole_Parker	1	Mark_Martin	1
+Suzanne_Gaudet	2	Jessica_Lynch	1
+Wendy_Kennedy	1	Tom_Lantos	1
+Charlize_Theron	1	Pat_Rochester	1
+Ken_Wharfe	1	Troy_Hudson	1
+Nathalie_Baye	2	1
+Anna_Kournikova	3	5
+Anna_Kournikova	11	6
+Isabelle_Huppert	1	2
+Marlene_Weingartner	2	1
+Harbhajan_Singh	1	2
+Ahmad_Masood	1	2
+Betty_Williams	1	Bonnie_Hunt	1
+Eglis_Yaima_Cruz	1	Mike_Sweeney	1
+Alan_Trammell	1	Chris_Cookson	1
+Michelle_Bachelet	1	Lynne_Thigpen	1
+Connie_Freydell	1	Carroll_Weimer	1
+Aron_Ralston	2	Jane_Leeves	1
+Namuddu_Florence	1	Pablo_Khulental	1
+Harry_Schmidt	2	4
+Princess_Aiko	2	1
+Anna_Kournikova	6	9
+Hee-Won_Han	1	2
+Anna_Kournikova	7	10
+Anna_Kournikova	7	11
+Michael_J_Sheehan	2	1
+Lynne_Thigpen	1	Alex_King	1
+Melissa_Joan_Hart	1	Pat_Rochester	1
+Sushma_Swaraj	1	Toutai_Kefu	1
+Alessandra_Cerna	1	Ruano_Pascual	1
+Shane_Loux	1	Pat_Rochester	1
+Mitsou_Gelinas	1	Anna_Kournikova	10
+Young_Kim	1	Greg_Kinsey	1
+Cathy_Freeman	2	1
+Nadia_Petrova	2	5
+Martha_Stewart	3	1
+Nadia_Petrova	1	4
+Clara_Harris	1	4
+Hee-Won_Han	3	2
+Jelena_Dokic	6	1
+Aron_Ralston	2	Linda_Amicangioli	1
+Alison_Krauss	1	Mary_Katherine_Smart	1
+Frank_Taylor	1	Patti_Lank	1
+Mary_Matalin	1	Benjamin_McKenzie	1
+Princess_Aiko	2	Jamie_Cooke	1
+Kim_Chinn	1	Luther_Htu	1
+John_Daly_Jr	1	Hugh_Miller	1
+Clara_Harris	2	1
+Mark_Dacey	2	1
+Jessica_Lynch	2	1
+Nathalie_Baye	1	4
+Rebekah_Chantay_Revels	1	4
+Harry_Schmidt	1	4
+Coretta_Scott_King	2	3
+John_Lisowski	1	David_Dorfman	1
+Troy_Hudson	1	Brandon_Knight	1
+Jonathan_Byrd	1	Don_Matthews	1
+Namuddu_Florence	1	Cole_Chapman	1
+Janet_Ecker	1	John_White	1
+Diana_Silvius	1	Moon-So-ri	1
+Ruano_Pascual	1	Tian_Liang	1
+Lisa_Raymond	1	2
+Rebekah_Chantay_Revels	3	2
+Roger_Clemens	1	2
+Jelena_Dokic	4	7
+Nathalie_Baye	2	4
+Meghann_Shaughnessy	2	1
+Adam_Scott	2	1
+Johnny_Htu	1	Ciaran_Hinds	1
+Peter_Harvey	1	Tatyana_Tomashova	1
+Troy_Hudson	1	David_Dorfman	1
+Melissa_Stark	1	Adam_Scott	2
+Allison_Searing	1	Reggie_Sanders	1
+Mike_Matthews	1	Eileen_Spina	1
+Patricia_Wartusch	1	John_Lennon	1
+Hee-Won_Han	1	3
+Ashton_Kutcher	3	2
+Nadia_Petrova	1	3
+Victoria_Clarke	4	2
+Nadia_Petrova	5	1
+Naomi_Campbell	1	2
+Martha_Stewart	1	4
+Elaine_Chao	1	Pham_Sy_Chien	1
+Jon_Stewart	1	Brittany_Snow	1
+Alessandra_Cerna	1	Joan_Dangerfield	1
+Anna_Chicherova	1	Hashan_Tillakaratne	1
+Cora_Cambell	1	Dick_Armey	1
+Nathalie_Baye	3	Melissa_Stark	1
+Steve_Cox	1	Sophie	1
+Harry_Schmidt	3	1
+Victoria_Clarke	5	4
+Nadia_Petrova	2	4
+Martha_Stewart	2	3
+Victoria_Clarke	1	5
+Anna_Kournikova	3	9
+Martha_Stewart	3	5
+Lee_Hyung-taik	1	Tomomi_Morita	1
+Chris_Dodd	1	Dule_Hill	1
+Princess_Elisabeth	2	Lucio_Angulo	1
+Patricia_Wartusch	1	Connie_Freydell	1
+Jelena_Dokic	5	Barbara_Esbin	1
+Shingo_Katayama	1	Filippo_Volandri	1
+Andrew_Bernard	1	Mike_Matheny	1
+Clara_Harris	4	3
+Harry_Schmidt	2	1
+Jelena_Dokic	8	3
+Nadia_Petrova	3	4
+Ozzy_Osbourne	1	3
+Martha_Stewart	5	1
+Nadia_Petrova	5	3
+Pat_Summerall	1	Cathy_Freeman	2
+Ricky_Ponting	1	Carroll_Weimer	1
+Chang_Saio-yue	1	Clara_Harris	1
+Patrick_Coleman	1	Imam_Samudra	1
+Jorge_Moreno	1	Javier_Vazquez	1
+Jacqueline_Edwards	1	Adam_Scott	2
+Leticia_Van_de_Putte	1	Curtis_Strange	1
+Jelena_Dokic	8	2
+Princess_Elisabeth	2	1
+Suzanne_Gaudet	2	1
+Aron_Ralston	1	2
+Rebekah_Chantay_Revels	4	3
+Harry_Schmidt	3	2
+Nadia_Petrova	2	1
+Martha_Stewart	5	Barbara_Boxer	1
+Ahmad_Masood	2	Leticia_Van_de_Putte	1
+Luther_Htu	1	Jane_Leeves	1
+Kristy_Curry	1	Coretta_Scott_King	1
+Johnny_Htu	1	Matt_Roney	1
+Jessica_Lynch	1	Jonathan_Byrd	1
+Soenarno	1	Michael_McNeely	1

@@ -1,0 +1,1001 @@
+10	50
+Michael_Powell	3	1
+Steve_Nash	4	2
+Herb_Sendek	3	2
+Tommy_Thompson	9	5
+Bob_Graham	1	5
+Gwyneth_Paltrow	1	4
+Tim_Duncan	3	4
+Heidi_Klum	5	3
+Daniel_Radcliffe	2	1
+Paul_Coppin	1	2
+Wolfgang_Schuessel	1	4
+George_Galloway	3	2
+Mike_Montgomery	1	2
+Russell_Crowe	1	2
+Stephen_Friedman	1	2
+Naomi_Watts	13	19
+John_F_Kennedy_Jr	2	1
+George_Robertson	10	6
+Patty_Schnyder	4	1
+Al_Davis	1	2
+Mike_Helton	2	1
+Claire_Leger	2	1
+Billy_Sollie	1	2
+Farouk_al-Sharaa	2	1
+Gillian_Anderson	1	2
+Rick_Barnes	2	1
+Gwendal_Peizerat	1	2
+Ted_Maher	2	1
+Leonid_Kuchma	4	1
+Matt_Damon	2	3
+Thaksin_Shinawatra	3	1
+Stephen_Daldry	1	2
+Jean_Chretien	39	37
+Bob_Graham	6	4
+Debra_Messing	2	3
+Jessica_Alba	1	2
+Tomoko_Hagiwara	1	2
+Tony_Shalhoub	4	3
+Colin_Farrell	5	8
+Monica_Lewinsky	1	2
+Edmund_Stoiber	10	13
+Rita_Grande	3	1
+Junichiro_Koizumi	43	30
+Adrian_Nastase	1	2
+Gordon_Brown	8	12
+Neri_Marcore	2	1
+Emma_Thompson	1	2
+Brian_Mulroney	2	1
+Arianna_Huffington	2	4
+Peter_Greenaway	2	1
+Sanjay_Chawla	1	Jason_Lezak	1
+Martha_Lucia_Ramirez	3	Didier_Defago	1
+Shirley_Jones	1	Compay_Segundo	1
+Teruaki_Masumoto	1	Rodrigo_de_la_Cerna	1
+Jean-Pierre_Raffarin	7	Milton_Berle	1
+Jean_Brumley	2	Ashraf_Alasmar	1
+Karin_Stoiber	1	Clay_Campbell	1
+Thalia	1	Herb_Sendek	3
+Fernando_Hierro	1	Carla_Myers	1
+Goldie_Hawn	1	Herb_Dhaliwal	1
+Ilan_Goldfajn	1	Jerry_Oliver	1
+Alfred_Ford	1	Stephen_Keener	1
+Peter_Mansbridge	1	Ibrahim_Hilal	1
+Melina_Kanakaredes	1	John_Robbins	1
+Hisashi_Owada	1	Afton_Smith	1
+Kwame_Kilpatrick	1	Vassilis_Xiros	1
+Martin_Verkerk	3	John_Mabry	1
+Kristin_Chenoweth	1	William_Jackson	1
+Luc_Montagnier	1	Thierry_Mariani	1
+Miranda_Otto	1	Mark_Butcher	1
+Glenn_Plummer	1	Edmund_Stoiber	8
+SJ_Twu	1	Thomas_Bjorn	1
+Mayumi_Moriyama	1	Urmila_Matondkar	1
+Dean_Barker	1	William_Pryor_Jr	1
+Miguel_Aldana_Ibarra	1	Elin_Nordegren	1
+Bill_Duffey	1	Ben_Stein	1
+Andrea_Yates	1	Ann_Landers	1
+Carly_Gullickson	1	Patricia_Medina	1
+Sue_Slavec	1	Anne_McLellan	3
+Suzanne_Fox	1	Randy_Travis	1
+Toshi_Izawa	1	Allyson_Felix	5
+Darlene_Garrettson	1	Jiang_Zemin	17
+Matt_Braker	1	John_Philip_Elkann	1
+Joel_Gallen	1	Razali_Ismail	1
+Frank_Stallone	2	Ann_Godbehere	1
+Austin_Kearns	1	Mohammed_Ashraf_Hafiz	1
+Patti_Labelle	3	Brian_Griese	2
+Michael_Moore	1	Keith_Bogans	3
+Harald_Ringstorff	1	Ernie_Els	3
+Soenarno	1	David_Canary	1
+Jack_Knowlton	1	Gerald_Calabrese	1
+Leonid_Kuchma	6	Joe_Mantegna	1
+Steve_Zahn	1	Laura_Flessel	1
+Ivan_Stambolic	1	Charles_Ingram	1
+Mickey_Gilley	1	Douglas_Meester	1
+Alex_Cabrera	1	Brandon_Webb	1
+Wu_Yi	1	James_Murdoch	1
+Ricky_Martin	1	Sherry_Fisher	1
+Tom_Koenigs	1	Takenori_Kanzaki	1
+Natanaela_Barnova	1	Kevin_Crane	1
+Elin_Nordegren	1	2
+Goldie_Hawn	5	7
+Franz_Muentefering	3	1
+Laura_Hernandez	2	1
+Javier_Solana	4	9
+Bill_Graham	1	8
+Rick_Stansbury	2	3
+Bernard_Landry	1	3
+Kenneth_Evans	2	1
+Chick_Hearn	2	3
+LK_Advani	3	2
+Jose_Sarney	2	1
+Dianne_Feinstein	1	3
+Leonard_Hamilton	2	1
+Roseanne_Barr	1	3
+Valentino_Rossi	3	2
+Lucio_Gutierrez	11	8
+Leland_Chapman	2	1
+Jennifer_Connelly	1	4
+Brad_Garrett	3	2
+Elvis_Presley	1	2
+Atal_Bihari_Vajpayee	7	19
+Prince_William	2	1
+George_Papandreou	3	2
+Mike_Weir	2	10
+Demi_Moore	4	2
+Thaksin_Shinawatra	6	4
+Peter_Hillary	2	1
+Edward_Norton	2	1
+Bud_Selig	4	1
+Fran_Drescher	2	1
+Janet_Napolitano	4	2
+Jennifer_Aniston	4	2
+Sachiko_Yamada	1	4
+Luiz_Felipe_Scolari	1	2
+Mariana_Pollack	2	3
+Jolanta_Kwasniewski	1	2
+Recep_Tayyip_Erdogan	6	17
+Adolfo_Aguilar_Zinser	1	2
+Andrew_Weissmann	1	3
+Bo_Pelini	1	2
+Robert_Zoellick	3	6
+Christopher_Walken	3	4
+Paul_Wolfowitz	2	3
+Tung_Chee-hwa	7	8
+Judi_Dench	1	2
+Kate_Winslet	1	2
+Mikhail_Wehbe	2	4
+Ernie_Els	1	2
+Megawati_Sukarnoputri	25	10
+Sue_Johnston	1	Paul_Wollnough	1
+Chris_Andrews	1	James_Hakett	1
+Lucie_Lapovsky	1	Marc_Grossman	2
+Guillermo_Coria	11	Kifah_Ajouri	1
+Charles_Bronson	1	Adrian_Nastase	1
+Chawki_Armali	1	Vince_Dooley	1
+Alexis_Bledel	1	Yoon_Jeong_Cho	1
+T_Boone_Pickens	1	Sebastian_Saja	1
+Paul_Byrd	1	Lubomir_Zaoralek	1
+Liza_Minnelli	6	Ion_Iliescu	1
+Janet_Thorpe	1	Fiona_Milne	1
+Ferenc_Madl	1	Lene_Espersen	1
+Steve_Austin	1	Angela_Alvarado_Rosa	1
+Olivera_Labus	1	John_Mabry	1
+Rand_Beers	1	Alexis_Bledel	1
+Paula_Radcliffe	3	Noer_Muis	1
+Jorge_Quiroga	1	Charley_Armey	1
+Thomas_Scavone	1	Nikki_McKibbin	1
+Earl_Counter	1	Javier_Vargas	1
+Stacey_Yamaguchi	1	Platon_Lebedev	1
+Brigitte_Boisselier	1	Bruce_Paltrow	1
+Zdravko_Mucic	1	Dolma_Tsering	1
+Marisol_Martinez_Sambran	1	Larry_Ellison	3
+Mark_Stuart	1	Joe_Paterno	1
+Mohammed_Abu_Sharia	1	Uzi_Landau	1
+Jose_Vicente_Rangel	1	Abdul_Rahman	1
+Michael_Clarke_Duncan	1	Sofia_Milos	1
+Cole_Chapman	1	Daniel_Rouse	1
+Khum_Bahadur_Khadka	1	Monica_Serra	1
+Carla_Gugino	1	Tom_Craddick	3
+Sheila_Wellstone	1	Prince_Naruhito	2
+Jimmy_Szymanski	1	Casey_Mears	1
+Michael_Donovan	1	Larry_Templeton	1
+Vytas_Danelius	1	Jennifer_Keller	2
+Goldie_Hawn	4	Serge_Tchuruk	1
+Adam_Rich	1	Vince_Carter	1
+Tab_Baldwin	1	Elinor_Caplan	2
+Fernando_Alonso	1	Frank_Marshall	1
+Robert_De_Niro	4	Lindy_Ruff	1
+Hamid_Efendi	1	Djabir_Said-Guerni	1
+Arnold_Palmer	3	Josh_Childress	1
+Donny_Osmond	1	Aitor_Gonzalez	1
+Yusaku_Miyazato	1	Marisa_Tomei	1
+Betsy_Coffin	1	James_Harris	1
+Frank_Marshall	1	Paul_McCartney	3
+Diane_Lane	1	Reginald_Hudlin	1
+Mark_Mulder	1	Oleg_Romantsev	1
+Patrick_Leahy	2	Angela_Bassett	2
+Bill_Byrne	1	Natasha_Henstridge	1
+Carlos_Beltran	1	Martina_McBride	4
+John_Warner	3	4
+Matt_Dillon	2	3
+Bode_Miller	2	1
+Ari_Fleischer	3	10
+Yossi_Beilin	1	2
+Tom_Hanks	3	9
+Dominique_de_Villepin	3	5
+Ray_Allen	3	1
+Sila_Calderon	2	3
+Mian_Khursheed_Mehmood_Kasuri	1	4
+John_Allen_Muhammad	7	6
+Charlie_Zaa	1	2
+Patrice_Chereau	2	1
+Amram_Mitzna	1	2
+Dan_Morales	2	1
+Jack_Nicholson	3	2
+Jennifer_Connelly	3	1
+Warren_Buffett	1	2
+Rafael_Ramirez	4	2
+Jim_Edmonds	1	2
+Bud_Selig	1	2
+Oleksandr_Moroz	2	1
+Tony_Shalhoub	3	2
+Gerry_Adams	5	3
+Chan_Gailey	1	3
+Jeff_Van_Gundy	2	3
+Gary_Winnick	1	2
+Patrick_Roy	2	1
+Jason_Lezak	2	1
+Yashwant_Sinha	7	2
+Kenneth_Branagh	1	2
+Michel_Temer	1	2
+Muhammad_Saeed_al-Sahhaf	1	2
+Richard_Butler	1	2
+Zarai_Toledo	2	1
+Bashar_Assad	2	1
+Pat_Cox	2	1
+Thabo_Mbeki	4	2
+Saddam_Hussein	11	10
+Vladimir_Putin	5	45
+John_Travolta	5	2
+Cathy_Freeman	1	2
+Mike_Krzyzewski	2	1
+Robbie_Williams	3	1
+Padraig_Harrington	3	4
+Theresa_May	1	3
+Kirk_Johnson	2	3
+Julie_Taymor	2	1
+Tariq_Aziz	2	1
+Sue_Wicks	2	1
+Hideki_Sato	1	Rena_Sofer	1
+Jacques_Kallis	1	Martin_Keown	1
+Chistian_Stahl	1	Ciro_Gomes	1
+Hubie_Brown	1	Aleksander_Kwasniewski	1
+Pete_Carroll	3	Leuris_Pupo	1
+Paek_Nam_Sun	1	Moshe_Katsav	4
+Yao_Ming	5	Mekhi_Phifer	1
+Betsy_Coffin	1	Roy_Moore	2
+Linda_Franklin	1	Edward_Lohn	1
+Jeff_Bzdelik	1	Julien_Boutter	1
+Ciaran_Hinds	1	Tara_Kirk	1
+James_Maguire	1	Brenda_Wilson	1
+Hassanal_Bolkiah	1	Vinnie_Jones	1
+Mona_Locke	1	Kyra_Sedgwick	1
+Rose_Linkins	1	Dianne_Feinstein	2
+Sean_Astin	1	Billy_Beane	1
+Jeri_Ryan	1	Vecdi_Gonul	1
+Ricardo_Monasterio	2	Jason_Bentley	1
+Linda_Amicangioli	1	Clint_Lamebear	1
+Ali_Adbul_Karim_Madani	1	Manuel_Gehring	1
+Charlie_Garner	1	Diana_Renee_Valdivieso_Dubon	1
+Franco_Frattini	1	James_Brosnahan	1
+Timothy_Wirth	1	Masahiko_Nagasawa	2
+Mitzi_Gaynor	1	Scott_Dickson	1
+Jesse_Harris	3	Richard_Sambrook	2
+Riek_Blanjaar	1	Clara_Harris	4
+Claude_Jorda	1	Dolma_Tsering	1
+Tim_Matheson	1	Ronald_Reagan	1
+Michael_DeMinico	1	Nigel_Redden	1
+Jim_Anderson	1	Yasar_Yakis	2
+Maurice_Strong	1	Leland_Chapman	1
+George_Clooney	8	Fernando_Sanz	1
+Reese_Witherspoon	3	Maggie_Smith	2
+Johnson_Panjaitan	2	Alan_Dreher	1
+Bak_Chang-Ryun	1	Kurt_Hellstrom	1
+James_Kopp	2	Khin_Nyunt	1
+Jeff_Feldman	1	Paul_Gascoigne	3
+Barbara_Becker	1	Thor_Pedersen	1
+Julius_Barnes	1	Leandro_Andrade	1
+Sheryl_Crow	2	Asif_Hanif	1
+Griffin_Colvin	1	Peter_Gilmour	1
+Luke_Ridnour	1	David_Nalbandian	13
+John_Gordnick	1	James_Kelly	6
+Flavia_Pennetta	1	Lord_Hutton	1
+Peter_Albertsen	1	Dimitri_Perricos	1
+Margie_Puente	1	Ali_Ahmeti	1
+Chris_Swecker	1	Thad_Matta	1
+Lara_Logan	1	Rubens_Barrichello	10
+Christina_Sawaya	1	Gregg_Berhalter	1
+Ken_Kutaragi	1	Rene_Portland	1
+Michael_Bloomberg	11	6
+Rick_Carlisle	3	2
+Alec_Baldwin	3	1
+Arturo_Gatti	1	2
+Cruz_Bustamante	4	3
+Hu_Jintao	15	3
+Freddy_Garcia	2	1
+Allyson_Felix	4	5
+Hichiro_Naemura	2	1
+Costas_Simitis	2	5
+John_Stockton	2	3
+Edwina_Currie	3	4
+Dennis_Kucinich	5	6
+Michel_Therrien	1	2
+James_Kelly	5	10
+Carlos_Quintanilla_Schmidt	1	2
+Robin_McLaurin_Williams	2	1
+Miroljub	1	2
+Mack_Brown	1	2
+Condoleezza_Rice	2	6
+Matthew_Perry	7	5
+Michael_Chang	5	8
+Alex_Sink	3	2
+Dale_Earnhardt_Jr	1	2
+Tom_Hanks	4	1
+Byron_Scott	1	2
+Roh_Moo-hyun	5	1
+Marc_Grossman	1	2
+Robert_Zoellick	7	6
+Heath_Ledger	3	4
+Trent_Lott	3	1
+Richie_Adubato	1	2
+Johnny_Tapia	1	2
+Fabrice_Santoro	3	2
+Emmit_Smith	1	2
+Bernard_Lord	2	1
+Kristin_Davis	3	1
+Monica_Seles	6	1
+JK_Rowling	2	6
+Silvio_Fernandez	2	1
+Mahmoud_Abbas	11	7
+Richard_Sambrook	1	2
+Mike_Weir	5	3
+Gwyneth_Paltrow	5	3
+Nicolas_Cage	3	1
+Marissa_Jaret_Winokur	1	2
+Gary_Forsee	2	1
+Conchita_Martinez	3	2
+Mike_Martz	5	2
+Rafael_Ramirez	4	1
+Jean_Brumley	2	Muhammad_Saeed_al-Sahhaf	3
+Tiago_Splitter	1	Stefanie_De_Roux	1
+Nicole	1	King_Bhumibol_Adulyadej	1
+Zhong_Nanshan	1	Steve_Blake	1
+Jim_Anderson	1	Tassos_Papadopoulos	3
+Christian_Fittipaldi	1	Matthew_McConaughey	1
+Zurab_Tsereteli	1	Ludivine_Sagnier	5
+Bertie_Ahern	3	Lionel_Richie	2
+Jimmy_Kimmel	1	Ben_Cahoon	1
+Vitali_Klitschko	3	Marc_Anthony	1
+Hayden_Panettiere	1	Mel_Gibson	1
+Curtis_Joseph	1	Chris_Whitney	1
+Tom_Moss	1	Ashraf_Alasmar	1
+Jeremy_Fogel	1	Trent_Lott	3
+Rick_Santorum	2	Darren_Clarke	1
+Lesley_McCulloch	3	Wang_Hailan	1
+Lauren_Hutton	1	Patsy_Mink	1
+Ralph_Nader	1	David_Hanson	1
+Tom_Scully	1	Joseph_Lopez	1
+Saeb_Erekat	2	Harland_Braun	1
+Bill_Readdy	1	Hans_Eichel	1
+Robbie_Williams	3	Bill_Clancy	1
+Steve_Coterill	1	Christian_Lacroix	1
+Najib_al-Salhi	1	Atom_Egoyan	1
+Jim_Leach	1	Danny_Ainge	1
+Robert_F_Kennedy_Jr	1	Scott_Ritter	1
+Colin_Powell	73	Anzori_Kikalishvili	1
+Angelo_Genova	1	Jimmy_Iovine	1
+Dan_Dickau	1	Din_Samsudin	1
+Paul_Li_Calsi	1	Barbara_Esbin	1
+Jennifer_Gratz	1	Curtis_Strange	1
+David_Hilt	1	Howard_Stringer	1
+William_Pryor_Jr	1	Mickey_Gilley	1
+Dyab_Abou_Jahjah	1	Christine_Todd_Whitman	3
+Hugh_Jessiman	1	Vivica_Fox	1
+Yann_Martel	2	Paul_Martin	5
+Susan_Collins	2	Steve_Kerr	1
+Earl_Scruggs	1	Vincent_Gallo	3
+Seymour_Cassell	1	Marina_Hands	1
+Don_Henley	1	Ramon_Santana	1
+David_Wolf	1	Josh_Childress	1
+Irina_Framtsova	1	Yuvraj_Singh	1
+Alvaro_Uribe	22	Richard_Shelby	1
+Talisa_Bratt	1	Bob_Herz	1
+Mary_Frances_Seiter	1	Oswald_Gruebel	1
+Pele	1	Jan_De_Bont	1
+Tom_Curley	1	Gwendal_Peizerat	2
+Kevin_Gil	1	Isabelle_Huppert	1
+Larry_Hahn	1	Marcos_Milinkovic	1
+Michael_Kostelnik	1	Mahima_Chaudhari	1
+Ernesto_Zedillo	2	1
+Goran_Persson	1	2
+Jacques_Chirac	42	43
+Mahathir_Mohamad	6	4
+Nikki_Reed	1	2
+Bulent_Ecevit	2	4
+Rudolph_Giuliani	1	14
+Tom_Coverdale	2	1
+Grant_Hackett	2	1
+Sandra_Bullock	4	2
+Clint_Eastwood	2	5
+Angela_Bassett	1	3
+Heinz_Feldmann	2	1
+Derek_Jeter	1	2
+Venus_Williams	12	7
+Kiki_Vandeweghe	1	2
+Bill_Simon	6	8
+Helen_Clark	4	1
+Michael_Schumacher	2	4
+Celso_Amorim	1	2
+Igor_Ivanov	5	16
+Michael_Bloomberg	4	1
+Shane_Warne	1	2
+Ben_Affleck	3	6
+Edward_Lu	6	3
+Jacques_Rogge	7	8
+Harry_Kalas	1	2
+Martha_Burk	3	4
+Spencer_Abraham	5	17
+Bobby_Robson	1	2
+Jean_Chretien	16	24
+Matthew_Perry	5	2
+Justin_Timberlake	8	7
+Olesya_Bonabarenko	1	2
+Peter_Harrison	1	2
+Jean-Sebastien_Giguere	2	1
+Tim_Robbins	2	5
+John_Warner	2	1
+Masum_Turker	1	3
+Thomas_Bjorn	1	2
+Evan_Rachel_Wood	3	1
+Joe_Lieberman	3	2
+Adolfo_Rodriguez_Saa	2	1
+Vicki_Zhao_Wei	2	1
+Gary_Doer	1	3
+Bill_Graham	3	1
+Kim_Jin-sun	2	1
+Prince_Harry	3	1
+Chris_Tucker	2	1
+Clint_Eastwood	2	3
+Ronnie_Jagday	1	Jimmy_Jimenez	1
+Michael_Munoz	1	George_Galloway	4
+Mary_Carey	4	Marat_Safin	3
+Vivica_Fox	2	Paul_Byrd	2
+Manuela_Montebrun	1	Larry_Lindsey	1
+Hank_Bass	1	Thomas_Rupprath	1
+Mike_Babcock	2	Amanda_Plumer	1
+Yusuf_Misbac	1	Richard_Shelby	1
+Rainer_Gut	1	Elaine_Stritch	1
+Elaine_Stritch	1	Phan_Van_Khai	1
+Sally_Field	4	Sean_Patrick_OMalley	3
+Tim_Lopes	1	James_Jones	2
+Patrick_Kron	1	Dave_Williams	1
+Sybille_Schmid	1	Jonathan_Edwards	7
+Joaquin_Sanchez	1	Rogelio_Montemayor	1
+Jens_Lehmann	1	Viola_Davis	1
+Raja_Qureshi	1	Dianne_Feinstein	3
+Mike_Maroth	1	Eli_Rosenbaum	1
+Elgin_Baylor	1	Rand_Miller	1
+Dale_Earnhardt	1	Carlos_Moya	5
+Hernan_Crespo	1	David_Modell	1
+Gary_Stevens	1	Abdel_Madi_Shabneh	1
+Nicolas_Latorre	1	Fernando_Alonso	1
+Steven_Kinlock	1	LeAnn_Rimes	2
+Al_Davis	1	Kaisser_Bazan	1
+Sue_Slavec	1	Pete_Sampras	1
+John_Petty	1	Michael_Ballack	2
+Arianna_Huffington	2	Benjamin_Martinez	1
+Richard_Greenberg	1	Ruth_Bader_Ginsburg	1
+Jerry_Angelo	1	Charlotte_Church	1
+Gabrielle_Rose	1	Itamar_Franco	1
+Lazaro_Castro	1	Ben_Lee	1
+Alfred_Sant	1	Thomas_Klestil	1
+Suzanne_Haik_Terrell	1	Monica_Seles	3
+Michael_Phelps	2	Kieran_Prendergast	2
+Zara_Akhmadova	1	Jason_Clermont	1
+Dorthy_Moxley	1	Clark_Randt	1
+Kelvin_Sampson	2	Robin_Tunney	1
+Ludwig_Ovalle	1	Nestor_Gonzalez	1
+Steven_Craig	1	Laura_Morante	1
+Peter_Rasch	1	Karen_Sharpe_Kramer	1
+Rick_Pitino	4	Juergen_Braehmer	1
+Yu_Shyi-kun	4	Tony_Fernandes	1
+Eli_Broad	1	Darko_Milicic	1
+Wycliffe_Grousbeck	1	Marvan_Atapattu	1
+Mike_Easley	1	Yasein_Taher	1
+Stefan_Holm	1	Ana_Isabel_Sanchez	1
+Mohammed_Al_Hindi	1	Matthew_Vaughan	1
+Ronald_Reagan	1	Greg_Owen	1
+Chris_Cooper	1	Natalie_Coughlin	2
+Carson_Palmer	4	2
+GL_Peiris	3	2
+Terry_Stotts	2	1
+Kamal_Kharrazi	5	2
+Biljana_Plavsic	1	3
+William_Donaldson	5	7
+Ben_Glisan	1	2
+George_Robertson	7	6
+Ashanti	2	5
+Klaus_Zwickel	2	1
+Dean_Barkley	4	2
+Natasha_McElhone	1	3
+Caroline_Kennedy	2	1
+Giuseppe_Gibilisco	2	3
+Blythe_Danner	1	2
+Juan_Carlos_Ferrero	27	23
+Jason_Kidd	2	3
+Gianna_Angelopoulos-Daskalaki	3	1
+Jose_Mourinho	1	2
+Elijah_Wood	3	2
+Bob_Beauprez	1	2
+Romano_Prodi	2	1
+James_Schultz	1	2
+Suzanne_Gaudet	2	1
+Eddy_Merckx	2	1
+Clare_Short	2	3
+Dorthy_Moxley	1	2
+Tom_Crean	4	3
+Norm_Coleman	6	3
+Lord_Hutton	2	1
+John_Kerry	16	11
+Megawati_Sukarnoputri	22	17
+Richard_Myers	14	11
+Carlo_Ancelotti	3	2
+Jeffrey_Jones	2	1
+Theodore_Tweed_Roosevelt	3	1
+Debbie_Reynolds	2	1
+Tiger_Woods	22	21
+Adam_Sandler	1	4
+Richard_Haass	2	1
+Augusto_Pinochet	2	1
+Padraig_Harrington	1	3
+Gerry_Parsky	2	1
+Michelle_Kwan	4	8
+Brad_Johnson	1	5
+Bob_Hope	1	8
+Miguel_Contreras	2	1
+Tim_Allen	3	2
+Tommy_Thompson	9	2
+Lisa_Marie_Presley	4	3
+Johnny_Depp	2	Ali_Abdullah_Saleh	1
+Claire_Leger	1	William_Hurt	1
+Caroline_Dhavernas	1	Jesse_James	1
+Tom_Scully	1	Nobuyuki_Idei	1
+Norman_Mailer	1	Joaquin_Phoenix	1
+Hatsui_Hasuike	1	Gary_Marshall	1
+Jason_Sorens	1	Owen_Nolan	1
+Gary_Forsee	2	Khum_Bahadur_Khadka	1
+Sadie_Frost	3	Mark_Sisk	1
+Gerard_de_Cortanze	1	Ignacio_Antonio_Velasco	1
+Saburo_Kawabuchi	2	Dave_Williams	1
+Donald_Anderson	1	Terrell_Suggs	1
+Hubie_Brown	1	Richard_Paul_Evans	1
+Ronald_Perelman	1	Hestrie_Cloette	1
+Michael_J_Fox	1	Augusto_Roa_Bastos	1
+Robert_Wagner	1	Hilary_McKay	1
+Steve_Lavin	3	Michael_Kirby	1
+Luis_Horna	3	Leandro_Garcia	1
+Elaine_Chao	1	Razali_Ismail	1
+Clare_Short	3	Charlotte_Chambers	1
+Yasar_Yakis	4	Dennis_Archer	1
+Linda_Baboolal	1	Sofyan_Dawood	1
+Shane_Reynolds	1	Joanne_Woodward	1
+Stephen_Ebberharter	1	Paul_Murphy	1
+Beth_Blough	1	Frank_Taylor	1
+Seth_Gorney	1	Miguel_Hakim	1
+Ilham_Aliev	1	Leonardo_DiCaprio	9
+Dominik_Hrbaty	1	Paul_Desmarais	1
+Kate_Richardson	1	Mike_Gable	1
+George_McCloud	1	John_Rowland	1
+Malcolm_Wild	1	William_Hurt	1
+Clint_Eastwood	4	Priscilla_Presley	1
+Bob_Colvin	2	Vladimir_Golovlyov	1
+Michelle_Pfeiffer	3	Oscar_DLeon	1
+Anibal_Ibarra	2	Elias_Attallah	1
+Yekaterina_Guseva	1	Jerome_Jenkins	1
+Alberta_Lee	1	Peter_Greenaway	1
+Alfonso_Cuaron	1	Joey_Harrington	1
+Ahmed_Qureia	1	Sedigh_Barmak	1
+Suzanne_Gaudet	2	Atiabet_Ijan_Amabel	1
+Jeremy_Shockey	1	Halle_Berry	6
+Lawrence_MacAulay	2	Kifah_Ajouri	2
+Robbie_Mc_Ewen	1	Lin_Yung_Hsi	1
+Winona_Ryder	8	Patrick_Stewart	1
+Hichiro_Naemura	1	Jimmy_Lee	1
+Gerard_Butler	1	Bill_Richardson	1
+Lily_Safra	1	Lee_Byung-woong	1
+Randy_Ferbey	1	Martin_Landau	1
+Prince_Naruhito	2	Craig_Burley	1
+Sergio_Castellitto	1	Mehmet_Ali_Sahin	1
+Edward_Lu	3	1
+Meryl_Streep	3	10
+Iva_Majoli	1	2
+Markus_Naslund	1	2
+Joan_Laporta	3	9
+Frances_Fisher	1	2
+Bill_Gates	12	2
+GL_Peiris	4	2
+Arsinee_Khanjian	2	1
+Wang_Yi	2	1
+Diana_Krall	5	6
+Mark_Hurlbert	5	2
+Steve_Ballmer	2	1
+Orrin_Hatch	1	2
+Jorge_Batlle	1	3
+Samira_Makhmalbaf	1	2
+Sonia_Gandhi	1	4
+Salma_Hayek	5	2
+Frank_Solich	1	4
+Junichiro_Koizumi	43	36
+Grady_Irvin_Jr	2	1
+Rudolph_Giuliani	6	19
+Tom_Reilly	3	1
+Richard_Armitage	3	2
+William_Donaldson	4	1
+Sheila_Copps	2	4
+Gene_Robinson	2	5
+Norm_Coleman	6	2
+Marcus_Gronholm	1	2
+Robert_Ehrlich	1	2
+Britney_Spears	10	1
+Carla_Myers	1	2
+Jean_Chretien	29	55
+Johnson_Panjaitan	2	1
+Tim_Floyd	2	1
+Pedro_Almodovar	4	3
+Lenny_Wilkens	3	1
+Brian_Heidik	2	1
+Kim_Clijsters	8	7
+Lucio_Gutierrez	9	13
+Bill_Clinton	5	14
+John_Rosa	1	3
+David_Heymann	3	4
+Sean_Astin	3	1
+Robbie_Williams	1	2
+Rick_Perry	6	5
+David_Bell	1	2
+Andrew_Bunner	2	1
+Barbra_Streisand	1	2
+Ferenc_Madl	1	2
+Jan_Pronk	1	Supachai_Panitchpakdi	1
+Paula_Zahn	2	Sam_Mendes	2
+Luiz_Felipe_Scolari	1	David_Dorfman	1
+Michelle_Yeoh	2	Ibrahim_Haddad	1
+Tom_Gamboa	1	Ellen_Engleman	2
+Brian_Heidik	1	Elena_Dementieva	1
+Olivier_Boulay	1	Syed_Ibrahim	1
+Gore_Vidal	1	Nathan_Doudney	1
+Hidetoshi_Nakata	1	Teruaki_Masumoto	1
+Micky_Arison	1	Stanley_Ho	1
+Amy_Pascal	1	Zavad_Zarif	1
+Jafar_Umar_Thalib	1	Anthony_Pisciotti	1
+Randall_Terry	1	Hanns_Schumacher	1
+Philippe_Noiret	2	Irfan_Ahmed	1
+Mike_Martz	3	Heath_Ledger	3
+Jean-Claude_Van_Damme	1	Patricia_Clarkson	2
+Magda_Kertasz	1	Maria_Soledad_Alvear_Valenzuela	4
+Trisha_Meili	1	Jamling_Norgay	1
+Tom_Jones	1	Arturo_Gatti	1
+Marquier_Montano_Contreras	1	Gus_Van_Sant	2
+John_McEnroe	2	Tanya_Lindenmuth	1
+Kevin_Tarrant	1	Herta_Daeubler-Gmelin	1
+Stella_Keitel	1	Jacky_Cheung	1
+Michael_Frayn	1	Ashraf_Ghani	1
+Kenny_Brack	1	Lonnie_Donegan	1
+Randy_Brown	1	Takashi_Yamamoto	1
+Franz_Muentefering	3	Ekaterina_Dmitriev	1
+Robert_Redford	1	Izzat_Ibrahim	1
+Steve_Avery	1	David_Provost	1
+Gary_Carter	3	Marisa_Tomei	1
+Robert_Horan	2	Gabrielle_Rose	1
+Eddy_Hartenstein	1	Tang_Jiaxuan	11
+Paul-Henri_Mathieu	1	Daniele_Bergamin	1
+Sonia_Gandhi	1	David_Stern	3
+Joe_Friedberg	1	Richard_Langille	1
+Takashi_Yamamoto	1	Mike_OConnell	1
+Lawrence_Di_Rita	1	Arif_Mardin	1
+Emile_Lahoud	1	Mark_Polansky	1
+Shawn_Marion	1	Natalie_Juniardi	1
+Kang_Gum-sil	1	T_Boone_Pickens	1
+Misty_Dawn_Clymer	1	Stephane_Delajoux	1
+Brad_Garrett	3	Evan_Rachel_Wood	3
+Ronald_Reagan	1	Miyako_Miyazaki	1
+Roger_King	1	Mike_Holmgren	1
+Joe_Garner	1	Erick_Barkley	1
+Al_Cardenas	1	Henrique_Meirelles	2
+Mark_Geragos	1	Mona_Rishmawi	1
+Eduardo_Duhalde	9	Chante_Jawan_Mallard	1
+Marc_Shaiman	1	Oleksandr_Moroz	2
+Francis_Crick	1	Mikhail_Wehbe	1
+Lee_Hoi-chang	3	2
+Michelle_Kwan	3	5
+Pamela_Anderson	5	4
+Larry_Lindsey	2	1
+Paul_Burrell	6	4
+Queen_Latifah	2	4
+Strom_Thurmond	3	2
+Roy_Jones_Jr	2	1
+Zafarullah_Khan_Jamali	2	1
+Leonid_Kuchma	2	4
+Erik_Morales	1	2
+Heidi_Fleiss	2	3
+Elizabeth_Hurley	4	5
+Jacques_Rogge	2	10
+Francis_Ford_Coppola	2	1
+Ernie_Fletcher	2	1
+Shaukat_Aziz	2	1
+Jean-Claude_Juncker	1	2
+JJ_Redick	1	2
+Mathias_Reichhold	2	1
+Drew_Barrymore	1	2
+Andre_Agassi	13	22
+Eric_Robert_Rudolph	1	2
+Ariel_Sharon	74	77
+Rick_Wagoner	2	1
+Pedro_Almodovar	3	6
+Faye_Dunaway	2	1
+Valery_Giscard_dEstaing	2	6
+Natasha_McElhone	2	1
+Win_Aung	1	4
+Jay_Rasulo	1	2
+Goldie_Hawn	7	4
+Mel_Gibson	1	2
+Rosemarie_Stack	2	1
+Hamzah_Haz	1	2
+Hosni_Mubarak	4	3
+Naomi_Campbell	1	2
+Antonio_Palocci	7	2
+Tim_Henman	7	15
+Silvio_Berlusconi	3	33
+Tim_Duncan	1	4
+Rainer_Schuettler	5	3
+Michael_Chiklis	4	1
+Horst_Koehler	1	3
+Sheryl_Crow	5	2
+Wang_Yingfan	2	1
+Alec_Baldwin	3	4
+John_Warner	4	1
+Hun_Sen	4	1
+Matthew_Perry	4	6
+Arturo_Gatti	1	Zurab_Tsereteli	1
+Wally_Szczerbiak	1	Miranda_Otto	1
+Eli_Rosenbaum	1	Alicia_Witt	1
+Laura_Bush	22	Debbie_Reynolds	4
+Marisol_Martinez_Sambran	1	Parris_Glendening	1
+Robert_Douglas	1	Ismail_Khan	1
+Amber_Frey	1	Vicki_Zhao_Wei	1
+Courtney_Love	1	Grady_Irvin_Jr	1
+Elena_Likhovtseva	1	Steven_Seagal	1
+Pak_Gil_Yon	1	Hitoshi_Oshitani	1
+Chance_Mock	1	Lee_Hyung-taik	1
+Lindsey_Graham	2	Vernon_Forrest	1
+Cristina_Saralegui	2	Rose_Linkins	1
+Michael_Linscott	1	Elena_Tihomirova	1
+Surakait_Sathirathai	1	Troy_Aikman	1
+Rulon_Gardner	1	Robert_Zoellick	1
+Richard_Ward	1	Art_Lopez	1
+Hugh_Miller	1	Rachel_Hunter	3
+Darren_Clarke	2	Gerald_Ford	1
+Ron_Kirk	1	Vanessa_Redgrave	5
+Jens_Lehmann	1	Charles_Rogers	1
+Richard_Regenhard	1	Tara_VanDerveer	1
+Sally_Kirkland	4	Margaret_Okayo	1
+David_Chase	1	Kirk_Franklin	1
+Huan_Chung_Yi	1	Darrell_Porter	2
+Kirby_Puckett	1	Jalal_Talabani	1
+Martin_Brooke	1	Antanas_Valionis	1
+Jerry_Bruckheimer	1	Tara_Reid	1
+Queen_Beatrix	3	Milton_Berle	1
+Rien_Long	1	Cathy_Freeman	2
+Maritza_Macias_Furano	1	Catherine_Bell	1
+Sergei_Alexandrovitch_Ordzhonikidze	1	Andrea_Yates	1
+Gary_Sinise	1	Alexandra_Vodjanikova	2
+Michael_Adams	1	Terry_McAuliffe	2
+Candace_Sutton	1	Paulo_Cesar_Pinheiro	1
+Hilda_Fortune	1	Rodolfo_Abalos	1
+Myung_Yang	1	Tonga	1
+Darcy_Regier	1	Darrell_Porter	1
+Pete_Gillen	1	Tony_Elias	1
+Suh_Chung-won	1	Juergen_Braehmer	1
+Jamie_Dimon	1	Pierre_Png	1
+Sandy_Smith	1	Florencia_Macri	1
+Don_Nickles	2	Leonard_Hamilton	2
+Arnaud_Clement	2	George_Lopez	4
+Richard_Hamilton	1	Rupert_Murdoch	2
+Luis_Fonsi	1	Freddy_Garcia	2
+Deepa_Mehta	1	Urmila_Matondkar	1
+Jesse_Jackson	4	Gordon_Campbell	2
+Ted_Turner	1	Alastair_Johnston	1
+Kathy_Baker	1	Jalal_Talabani	1
+Vince_Gill	2	1
+Minnie_Driver	2	1
+William_Macy	4	2
+Dennis_Kucinich	4	2
+Robert_Horan	1	2
+Wen_Jiabao	8	6
+Bob_Huggins	2	4
+Bill_Gates	16	14
+Tony_Bennett	3	4
+Edmund_Hillary	2	1
+Zhang_Wenkang	2	1
+Rob_Lowe	2	1
+Hugo_Chavez	67	25
+Juan_Ignacio_Chela	3	2
+Bob_Colvin	2	1
+Lee_Jun	1	2
+Kosuke_Kitajima	2	1
+John_Snow	17	2
+Howard_Smith	1	2
+Dan_Morales	3	2
+Barry_Zito	1	2
+Paul_McCartney	5	7
+Laila_Ali	3	1
+George_Ryan	1	3
+Adel_Al-Jubeir	1	3
+Pierre_Boulanger	2	1
+Pierce_Brosnan	7	14
+Federico_Trillo	3	2
+Enrique_Bolanos	1	4
+Gloria_Allred	2	1
+Adrien_Brody	8	11
+Bill_Clinton	11	26
+Mark_Hamister	2	1
+Ari_Fleischer	5	10
+Princess_Caroline	1	4
+Norodom_Sihanouk	3	2
+Jeffrey_Scott_Postell	1	2
+Amanda_Beard	1	2
+Frank_Griswold	2	1
+Marilyn_Monroe	2	1
+Mian_Khursheed_Mehmood_Kasuri	2	4
+Kamal_Kharrazi	1	5
+Larry_Brown	5	6
+Hugh_Grant	2	1
+Isabelle_Huppert	1	2
+Jake_Gyllenhaal	5	3
+Mikhail_Youzhny	3	1
+Simon_Cowell	2	1
+George_Foreman	2	1
+Rod_Blagojevich	1	2
+Jan_Paul_Miller	1	Madonna	2
+Lucio_Stanca	1	Richard_Gere	9
+Dennis_Erickson	2	Bob_Herz	1
+Lon_Kruger	2	Barbara_Felt-Miller	1
+Princess_Masako	2	Thad_Matta	1
+Laura_Pausini	1	Jeffrey_Donaldson	1
+Gorden_Tallis	1	Hamid_Efendi	1
+Billy_Beane	1	Benicio_Del_Toro	1
+Joe_Garner	1	Silvio_Berlusconi	14
+Mike_Krzyzewski	6	Cristina_Torrens_Valero	1
+Aline_Chretien	1	Dave_Tucker	1
+John_Burnett	1	Edina_Batar	1
+Rudy_Tomjanovich	1	Wen_Ho_Lee	1
+Ted_Costa	1	Raghad_Saddam_Hussein	1
+Keith_Osik	1	Queen_Elizabeth_II	7
+Alina_Kabaeva	1	Kelsey_Grammer	1
+Pascal_Affi_Nguessan	1	Mark_Swartz	1
+Inga_Hall	1	Raymond_Arthurs	1
+John_Moxley	1	Pilar_Montenegro	1
+John_Coomber	1	James_Collinson	1
+Roberto_Cavalli	1	Cherie_Blair	4
+Ronald_Brower	1	Tara_Reid	1
+Dan_Ackroyd	1	Chris_Tucker	2
+Abdullah_Gul	11	Len_Jenoff	1
+Steve_Waugh	2	Wang_Nan	1
+Daniel_Osorno	1	Eduardo_Fischer	1
+Lord_Hutton	2	Paul_Hogan	2
+Nina_Jacobson	1	John_McEnroe	2
+George_Harrison	1	Mark_Warner	1
+Naoto_Kan	3	Eugene_Teslovic	1
+Paul_Luvera	1	Melissa_Mulloy	1
+Jerry_Hall	1	Todd_Robbins	1
+Allan_Houston	1	Wim_Duisenberg	1
+Chan_Ho_Park	1	Amber_Tamblyn	1
+Gretchen_Mol	1	Jesper_Parnevik	1
+Tia_Mowry	1	Lubomir_Zaoralek	1
+Eladio_Larez	1	Mohammad_Khatami	1
+James_Phelps	1	George_Voinovich	2
+Ruth_Bader_Ginsburg	1	Carlos_Mesa	2
+Rafael_Bielsa	1	Pedro_Mahecha	1
+Debra_Rose	1	Christian_Fittipaldi	1
+Cesar_Gaviria	3	Khaled_Sawalhi	1
+Bud_Selig	4	Jonathan_Tiomkin	1
+Manuel_Pellegrini	1	Meg_Mallon	1
+Julian_Battle	1	Ibrahim_Haddad	1
+Michael_Linscott	1	Charlie_Sheen	1
+Francis_Ricciardone	1	Ismail_Merchant	1
+Jaromir_Jagr	1	Gong_Li	1
+Noelle_Bush	4	Shawn_Kemp	1
+Nicolas_Massu	1	Florencia_Macri	1
+Steve_Lavin	6	2
+Rick_Dinse	1	2
+Ricardo_Monasterio	2	1
+Steve_Lavin	1	6
+Ricardo_Maduro	2	1
+James_Butts	1	2
+Guillermo_Coria	30	7
+Matt_Doherty	1	3
+John_Spencer	2	1
+Mariana_Pollack	3	1
+Arye_Mekel	2	1
+Lloyd_Ward	1	2
+Jiang_Zemin	6	2
+Salma_Hayek	10	11
+Richard_Gephardt	9	1
+David_Nalbandian	9	3
+Natalie_Maines	3	2
+Sergio_Vieira_De_Mello	1	7
+Priscilla_Owen	1	2
+James_Jones	2	1
+Pierce_Brosnan	11	15
+Luis_Gonzalez_Macchi	3	1
+Kobe_Bryant	2	3
+Ralf_Schumacher	3	1
+Joe_Nichols	4	1
+Jacques_Rogge	1	7
+Colin_Farrell	6	2
+Boris_Berezovsky	1	2
+Richard_Gere	7	3
+John_Blaney	2	1
+Kim_Dae-jung	8	7
+LK_Advani	2	1
+Hashim_Thaci	2	1
+Queen_Rania	1	2
+Maria_Soledad_Alvear_Valenzuela	2	1
+Cameron_Diaz	5	4
+Heinz_Feldmann	3	1
+Robby_Ginepri	2	1
+Xavier_Malisse	1	4
+Matt_Doherty	1	2
+Prince_Willem-Alexander	3	2
+Ralph_Firman	2	1
+Larry_Brown	5	7
+Ruth_Dreifuss	1	2
+Tamara_Brooks	2	1
+Laura_Linney	2	3
+Dick_Latessa	2	1
+Greg_Gilbert	2	1
+Kirk_Ferentz	1	2
+Fidel_Castro	16	18
+David_Alpay	1	Alex_King	1
+Julio_Toro	1	Mark_Dacey	1
+Mohammad_Fares	1	Desmon_Farmer	1
+Marisa_Tomei	2	Brian_Heidik	2
+Mira_Sorvino	1	Brandon_Robinson	1
+Mireya_Moscoso	4	Elena_Bovina	1
+Jody_Richards	1	Justin_Leonard	1
+Shigeru_Ishiba	1	Dereck_Whittenburg	1
+Julia_Glass	1	Val_Ackerman	1
+Peter_Harrison	1	Sergey_Lavrov	4
+Kim_Su_Nam	1	Don_King	1
+Sohail_Abbas	1	GL_Peiris	1
+German_Khan	1	Roberta_Combs	1
+Sharon_Davis	1	Marwan_Barghouthi	1
+Pierre_Lacroix	1	Bob_Sulkin	1
+Richard_Haass	2	Peter_Hollingworth	1
+Ciro_Gomes	3	Ronde_Barber	1
+Stephen_Push	1	Tessa_Jowell	1
+James_Dingemans	1	Patti_Lank	1
+Tassos_Papadopoulos	1	Faisal_Saleh_Hayat	1
+Alex_Sink	2	Percy_Gibson	1
+Monica_Serra	1	Richard_Gere	5
+Elena_Bovina	2	Mike_Matthews	1
+Kim_Cattrall	1	Shingo_Suetsugu	1
+Mitchell_Swartz	1	Monica_Gabrielle	1
+Mary_Sue_Coleman	1	Ricky_Barnes	1
+Anthony_Garotinho	1	Branko_Crvenkovski	2
+Wycliffe_Grousbeck	1	Tyler_Hamilton	2
+Michel_Kratochvil	1	Juergen_Braehmer	1
+Steven_Briggs	1	Dianne_Feinstein	1
+Barbara_Walters	4	Jan_Pronk	1
+Hubie_Brown	1	Will_Young	1
+Matt_Herden	1	Dorthy_Moxley	2
+Kirk_Johnson	3	Raghad_Saddam_Hussein	1
+Mehmet_Okur	1	Joseph_Kabila	1
+Tomas_Enge	1	Muhammad_Saeed_al-Sahhaf	2
+Alberto_Acosta	1	Laila_Ali	2
+Chris_Simon	1	Hussam_Mohammed_Amin	1
+Christy_Turlington	1	Jan_Bjoerklund	1
+Brooke_Gordon	1	Yoriko_Kawaguchi	10
+Will_Smith	1	Colleen_Jones	1
+Evelyn_Lauder	1	Janez_Drnovsek	1
+Hilda_Fortune	1	Curtis_Rodriguez	1
+Djabir_Said-Guerni	1	Steve_Valentine	1
+Manuel_Jesus	1	Cristina_Kirchner	1
+Tomas_Malik	1	Jodie_Foster	2
+Joel_Todd	1	Toshi_Izawa	1
+Razali_Ismail	1	Darlene_Garrettson	1
+Scott_Wallach	1	Philip_Zalewski	1
+Tara_VanDerveer	1	Juan_Sanchez	1
