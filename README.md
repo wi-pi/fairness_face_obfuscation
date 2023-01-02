@@ -22,7 +22,7 @@ conda env create -f environment.yml
 ## Required weights, embeddings, datasets
 Download the following folders and place them in the `./data` directory: https://drive.google.com/drive/folders/1xWoGESQEtRPZhIEut-9ID2Yyu25lJDaz?usp=share_link
 
-To download the all embeddings, download `embeddings/all_embeds/` and move the files to the `embeddings/attributes/` folder. To download only the non-adversarial embeddings, download `embeddings/embeds/` and move the files to the `embeddings/attributes/` folder.
+To download the all embeddings, download `embeddings/all_embeds/` and move the files to the `./data/embeddings/attributes/` folder. To download only the non-adversarial embeddings, download `embeddings/embeds/` and move the files to the `./data/embeddings/attributes/` folder.
 
 ## Resources
 Results reported in the paper were obtained using a server with 40 CPU cores, 2 Nvidia TITAN Xp's, and 1 Quadro P6000, 125 GB Memory, Ubuntu version 16.04 LTS, CUDA 10.0, NVIDIA Driver 410.104.
